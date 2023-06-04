@@ -1,0 +1,3 @@
+aiogram
+random
+requests
